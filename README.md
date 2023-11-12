@@ -1,8 +1,6 @@
 
 
 # Basic
-This application was built as part of the term project by a group of 5 for the course - CMPE 281 Cloud Technologies at San Jose State Univerity.
-
 This is a prototype Multitenant SaaS Web Application that can be used by project management groups to manage and track their projects. The features of this application are described below:
 
 ## Usage
@@ -36,11 +34,6 @@ This is a prototype Multitenant SaaS Web Application that can be used by project
 1. Eclipse Enide for express and node.js
 2. RoboMongo and MongoLab to host the daabse
 3. Postman REST Client for testing the REST APIs
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
 
 ##To Run
 1. Install npm, express, node
